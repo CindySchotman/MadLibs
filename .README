@@ -1,0 +1,4 @@
+.README
+
+ Cindy Schotman <katrienka2@gmail.com>
+  Mad Libs - This app first welcomes you to the app. On the first Activity you can find the description of the game. After the user has read this it taps the 'GET STARTED!'-button which will bring the user to the second activity. Here a story is randomly chosen and the user will have to fill in an amount of words. After filling in the last word and taping the 'OK'-button for the last time, the user comes to the last activity which shows the whole story including the filled in words. When tapping the 'Another Story'-button, the user goes back to the second activity where a new story is (randomly) chosen.
